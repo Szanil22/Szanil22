@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey 👋, I'm Leynard Drake Hernandez</h1>
-<h3 align="center">💻 4th Year BSIT Student| Aspiring Web Developer</h3>
+<h1 align="center">Hey 👋, I'm Szanil Gueco</h1>
+<h3 align="center">💻 4th Year BSIT Student| Interested in Web and Software Development</h3>
 
 ---
 
@@ -23,16 +23,9 @@ Here are some ideas to get you started:
 - 🎓 Currently pursuing a **Bachelor of Science in Information Technology** at **Bulacan State University**
 - 📚 Learned and practiced programming with **Java, C++, C#, PHP, Python, JavaScript, HTML, CSS**, and more  
 - 💻 Built projects using **Android Studio, Firebase, and MySQL**
-- 🚀 Passionate about **web development, mobile app development, and cloud computing**
+- 🚀 Passionate about **web development, desktop applications, and basic software systems**
 - 🌱 Always exploring new tech and improving my skills
 ---
-
-### 🎓 Certifications & Learning
-- ☁️ Currently studying: Microsoft Azure Fundamentals (AZ-900)
-- 📜 Certified: The Complete Web Development Bootcamp (Udemy)
-    (Full-stack web development — HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and GitHub. — https://www.udemy.com/certificate/UC-25658ed8-63c3-49ef-b93a-c183c4afbbe3/)
-- 🌐Certified: Networking Basics – Cisco Networking Academy (Credly)
-    (Fundamentals of computer networking, IP addressing, and connectivity. — https://www.credly.com/badges/fb359c41-9936-4d7e-a26f-6172d962b0e4)
 
 
 ### 📚 Tools & Technologies I’ve Learned   
@@ -87,34 +80,6 @@ Here are some ideas to get you started:
 
 ---
 
-#### 🎨 Design & Multimedia  
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="48" height="48" alt="Premiere" />
-      <br>Premiere
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/canva.png" width="48" height="48" alt="Canva" />
-      <br>Canva
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-</table>  
-
----
-
 #### 🗂️ Productivity Tools  
 <table align="center">
   <tr>
@@ -131,19 +96,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leydrake&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-</div>
-
----
-
 ### 🔗 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/leynard-drake-hernandez-b49ab8378/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leynarddrakehernandez@gmail.com&su=SUBJECT&body=BODY">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guecoszanil4@gmail.com&su=SUBJECT&body=BODY">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
