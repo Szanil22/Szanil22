@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey 👋, I'm Szanil Gueco</h1>
-<h3 align="center">💻 4th Year BSIT Student| Interested in Web and Software Development</h3>
+<h3 align="center">💻 4th Year BSIT Student | Interested in Web and Software Development</h3>
 
 ---
 
